@@ -11,7 +11,7 @@ const Tsider = () => {
   const navigate = useNavigate();
   const onClick = (e) => {
     if (e.key === "1") {
-      navigate("/todo");
+      navigate("/");
     }
     console.log("click ", e);
   };

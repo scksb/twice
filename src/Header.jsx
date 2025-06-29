@@ -3,11 +3,11 @@ import {  MailOutlined, SettingOutlined } from '@ant-design/icons';
 
 import { Menu } from "antd";
 const items = [
-  {
-    label: "One",
-    key: "mail",
-    icon: <MailOutlined />,
-  },
+  // {
+  //   label: "One",
+  //   key: "mail",
+  //   icon: <MailOutlined />,
+  // },
   
  
   
